@@ -2,7 +2,7 @@
   "name": "dash",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tonyflores.me/budget-dashboard/public",
+  "homepage": "https://tonyflores.me/budget-dashboard",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
     "@fortawesome/free-solid-svg-icons": "^5.12.1",
@@ -23,6 +23,8 @@
     "yahoo-finance": "^0.3.6"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
