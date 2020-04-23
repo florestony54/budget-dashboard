@@ -1,0 +1,15 @@
+#big-panels{
+    display: flex;
+}
+
+.big-panel{
+    max-width: 60rem;
+}
+
+#small-panels{
+    display: flex;
+}
+
+#small-panels .col-md{
+    max-width: 30rem;
+}

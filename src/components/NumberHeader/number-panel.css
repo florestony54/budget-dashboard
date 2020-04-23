@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+
+#big-number {
+    font-size: 4rem;
+    font-family: 'Anton', sans-serif;
+    color: greenyellow;
+}
+
