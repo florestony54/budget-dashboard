@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/budget-dashboard/static/css/main.c87490b8.chunk.css",
+    "main.js": "/budget-dashboard/static/js/main.4b1cd661.chunk.js",
+    "main.js.map": "/budget-dashboard/static/js/main.4b1cd661.chunk.js.map",
+    "runtime-main.js": "/budget-dashboard/static/js/runtime-main.840c874a.js",
+    "runtime-main.js.map": "/budget-dashboard/static/js/runtime-main.840c874a.js.map",
+    "static/css/2.de424728.chunk.css": "/budget-dashboard/static/css/2.de424728.chunk.css",
+    "static/js/2.5568eec5.chunk.js": "/budget-dashboard/static/js/2.5568eec5.chunk.js",
+    "static/js/2.5568eec5.chunk.js.map": "/budget-dashboard/static/js/2.5568eec5.chunk.js.map",
+    "index.html": "/budget-dashboard/index.html",
+    "precache-manifest.7cf140cfa5a85a08aeafeb5a37a66d5b.js": "/budget-dashboard/precache-manifest.7cf140cfa5a85a08aeafeb5a37a66d5b.js",
+    "service-worker.js": "/budget-dashboard/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/budget-dashboard/static/css/2.de424728.chunk.css.map",
+    "static/css/main.c87490b8.chunk.css.map": "/budget-dashboard/static/css/main.c87490b8.chunk.css.map",
+    "static/js/2.5568eec5.chunk.js.LICENSE.txt": "/budget-dashboard/static/js/2.5568eec5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.840c874a.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.5568eec5.chunk.js",
+    "static/css/main.c87490b8.chunk.css",
+    "static/js/main.4b1cd661.chunk.js"
+  ]
+}
